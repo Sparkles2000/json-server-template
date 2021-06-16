@@ -42,8 +42,8 @@
     },
     {
       "id": 6,
-      "name": "fudgecake",
-      "image":"./images/Fudgecake.jpg",
+      "name": "Fudgecake",
+      "image":"./images/fudgecake.jpg",
       "age": 7,
       "gender": "Male",
       "story": ["Give warm chocolatey hugs.", "A super beary loving bear.", "Loves to cuddle."]
