@@ -6,7 +6,7 @@
       "image":"./images/blackbeary.jpg",
       "age": 1,
       "gender": "Female",
-      "story": ["Absolutely stunning!", "A beautiful plushy girl.", "Full of beary much love.", "The sweetest of sweet."]
+      "story": "Absolutely stunning! A beautiful plushy girl. Full of beary much love. The sweetest of sweet."
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "image":"./images/brownie.jpg",
       "age": 6,
       "gender": "Male",
-      "story": ["A warm caring bear", "Soft and sweet.", "Full of warm hugs and cuddles."]
+      "story": "A warm caring bear. Soft and sweet. Full of warm hugs and cuddles."
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "image":"./images/buttercup.jpg",
       "age": 5,
       "gender": "Female",
-      "story": ["Beary adorable!", "Loves to be cuddled.", "Is always a pleasure."]
+      "story": "Beary adorable! Loves to be cuddled. Is always a pleasure."
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "image":"./images/butterscotch.jpg",
       "age": 3,
       "gender": "Female",
-      "story": ["What a tyke.", "Gives never-ending hugs.", "Will be your best friend."]
+      "story": "What a tyke. Gives never-ending hugs. Will be your best friend."
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "image":"./images/ebony.jpg",
       "age": 1,
       "gender": "Female",
-      "story": ["A sweetie pie.", "Soft and plushy.", "Will melt your heart in an instant."]
+      "story": "A sweetie pie. Soft and plushy. Will melt your heart in an instant."
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "image":"./images/fudgecake.jpg",
       "age": 7,
       "gender": "Male",
-      "story": ["Give warm chocolatey hugs.", "A super beary loving bear.", "Loves to cuddle."]
+      "story": "Give warm chocolatey hugs. A super beary loving bear. Loves to cuddle."
     },
     {
       "id": 7,
@@ -54,8 +54,7 @@
       "image":"./images/isis.jpg",
       "age": 2,
       "gender": "Female",
-      "story": [
-        "A very beautiful girl.", "Always a joy.", "Brightens everyones day."]
+      "story": "A very beautiful girl. Always a joy. Brightens everyones day."
     },
     {
       "id": 8,
@@ -63,7 +62,7 @@
       "image":"./images/smokey.jpg",
       "age": 4,
       "gender": "Male",
-      "story": ["Always charming.", "Loves lots of hugs.", "Steals your heart in an instant."]
+      "story": "Always charming. Loves lots of hugs. Steals your heart in an instant."
     },
     {
       "id": 9,
@@ -71,7 +70,7 @@
       "image":"./images/strawbeary.jpg",
       "age": 3,
       "gender": "Female",
-      "story": ["So sweet just like her name.", "Very Friendly.", "Makes your day special everyday."]
+      "story": "So sweet just like her name. Very Friendly. Makes your day special everyday."
     },
     {
       "id": 10,
@@ -79,7 +78,7 @@
       "image":"./images/tiny.jpg",
       "age": 2,
       "gender": "Male",
-      "story": ["Just adorable!", "The tiniest of them all.", "Super loving.", "Has a big heart in a little bitty package."]
+      "story": "Just adorable! The tiniest of them all. Super loving. Has a big heart in a little bitty package."
            }
       ]
   }
